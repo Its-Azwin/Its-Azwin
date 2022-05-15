@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Its-Azwin
+- 👋 Hi, I’m Aswin
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 
